@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">鲸鲸宠物分享包说明图</title>
+  <desc id="desc">蓝发鲸鱼女仆鲸鲸，以及九种动画状态、十六个视线方向和三步创建流程。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1f7ff"/><stop offset="1" stop-color="#e7f5ff"/></linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#566fbb"/><stop offset="1" stop-color="#193b79"/></linearGradient>
+    <linearGradient id="dress" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#35579f"/><stop offset="1" stop-color="#1d3978"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#385f9c" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1200" height="720" rx="36" fill="url(#bg)"/>
+  <circle cx="1060" cy="100" r="90" fill="#d8edff" opacity=".55"/><circle cx="130" cy="630" r="105" fill="#d9ecff" opacity=".5"/>
+  <text x="64" y="78" fill="#203e78" font-family="'Microsoft YaHei',sans-serif" font-size="34" font-weight="700">认识鲸鲸</text>
+  <text x="64" y="112" fill="#60789f" font-family="'Microsoft YaHei',sans-serif" font-size="17">蓝发鲸鱼女仆风格的陪伴宠物 · 分享包使用指南</text>
+  <rect x="52" y="145" width="420" height="510" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <text x="82" y="188" fill="#24457f" font-family="'Microsoft YaHei',sans-serif" font-size="21" font-weight="700">蓝白鲸鱼女仆</text>
+  <text x="82" y="216" fill="#7589aa" font-family="'Microsoft YaHei',sans-serif" font-size="15">蓝色长发 · 蕾丝发箍 · 鲸鱼尾巴</text>
+  <!-- stylized explanatory mascot -->
+  <ellipse cx="258" cy="574" rx="120" ry="18" fill="#dce9f7"/>
+  <path d="M330 472 C382 482 407 521 435 512 C423 541 391 544 370 531 C383 553 412 562 429 576 C395 581 365 567 347 548Z" fill="#244782" stroke="#183970" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M199 425 Q258 397 318 425 L359 518 Q258 549 157 518Z" fill="url(#dress)" stroke="#183970" stroke-width="5"/>
+  <path d="M173 505 Q258 530 343 505 L359 523 Q258 557 157 523Z" fill="#fff" stroke="#c8d8ef" stroke-width="4"/>
+  <path d="M200 424 Q258 439 317 424 L300 481 Q258 496 216 481Z" fill="#f7fbff" stroke="#d7e3f2" stroke-width="4"/>
+  <path d="M229 424 Q258 443 287 424 L280 461 Q258 470 236 461Z" fill="#dbeaff"/>
+  <path d="M182 429 Q169 445 179 473 L205 484 L211 446Z M334 429 Q347 445 337 473 L311 484 L305 446Z" fill="#f7fbff" stroke="#d7e3f2" stroke-width="4"/>
+  <path d="M217 483 Q258 497 299 483 L306 508 Q258 526 210 508Z" fill="#264782"/>
+  <circle cx="258" cy="446" r="7" fill="#fff"/><circle cx="258" cy="446" r="3" fill="#365891"/>
+  <!-- hair back and side locks -->
+  <path d="M175 327 C151 360 165 442 191 475 Q208 452 217 413 L303 413 Q314 454 332 475 C361 435 365 359 336 323Z" fill="url(#hair)" stroke="#183970" stroke-width="5"/>
+  <!-- face -->
+  <ellipse cx="258" cy="344" rx="72" ry="81" fill="#ffe9dc" stroke="#183970" stroke-width="4"/>
+  <!-- hair cap and bangs -->
+  <path d="M185 354 C169 298 203 256 258 254 C315 255 350 300 331 354 Q311 330 302 305 Q287 332 272 352 Q265 329 253 310 Q235 344 218 355 Q208 332 199 316Z" fill="url(#hair)" stroke="#183970" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M193 357 Q177 376 166 383 Q174 407 195 401 M323 357 Q340 378 351 383 Q343 407 322 401" fill="#244782" stroke="#183970" stroke-width="4"/>
+  <!-- eyes, blush and smile -->
+  <ellipse cx="230" cy="358" rx="11" ry="17" fill="#fff"/><ellipse cx="286" cy="358" rx="11" ry="17" fill="#fff"/>
+  <ellipse cx="232" cy="362" rx="7" ry="12" fill="#4984c9"/><ellipse cx="288" cy="362" rx="7" ry="12" fill="#4984c9"/>
+  <circle cx="234" cy="357" r="3" fill="#fff"/><circle cx="290" cy="357" r="3" fill="#fff"/>
+  <ellipse cx="211" cy="383" rx="10" ry="5" fill="#f5a8ad" opacity=".55"/><ellipse cx="305" cy="383" rx="10" ry="5" fill="#f5a8ad" opacity=".55"/>
+  <path d="M248 385 Q258 394 268 385" fill="none" stroke="#c76e7d" stroke-width="3" stroke-linecap="round"/>
+  <!-- maid headband -->
+  <path d="M184 319 Q258 243 332 319" fill="none" stroke="#fff" stroke-width="13" stroke-linecap="round"/>
+  <path d="M189 312 l-7 -10 13 2 1 -12 10 9 7 -10 7 11 12 -4 -3 13 M299 311 l-3 -12 12 4 6 -11 7 10 10 -7 1 12 12 0 -7 11" fill="#fff" stroke="#dbe6f4" stroke-width="2" stroke-linejoin="round"/>
+  <!-- bow -->
+  <path d="M322 337 Q338 319 348 338 Q340 348 325 349 Q340 352 347 366 Q337 378 322 357 Q308 378 297 366 Q304 351 319 349 Q303 347 297 338 Q307 319 322 337Z" fill="#5e82c4" stroke="#365991" stroke-width="3"/>
+  <rect x="492" y="145" width="656" height="230" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <text x="528" y="190" fill="#24457f" font-family="'Microsoft YaHei',sans-serif" font-size="21" font-weight="700">一个精灵表，装下鲸鲸的日常</text>
+  <text x="528" y="222" fill="#7589aa" font-family="'Microsoft YaHei',sans-serif" font-size="15">透明 PNG · 1536 × 2288 · v2 动画规格</text>
+  <rect x="528" y="250" width="270" height="82" rx="18" fill="#edf5ff"/>
+  <text x="550" y="286" fill="#3566a5" font-family="'Microsoft YaHei',sans-serif" font-size="27" font-weight="700">9 种</text><text x="550" y="313" fill="#536e96" font-family="'Microsoft YaHei',sans-serif" font-size="15">待机、挥手、跳跃、工作等状态</text>
+  <rect x="820" y="250" width="292" height="82" rx="18" fill="#edf5ff"/>
+  <text x="842" y="286" fill="#3566a5" font-family="'Microsoft YaHei',sans-serif" font-size="27" font-weight="700">16 个</text><text x="842" y="313" fill="#536e96" font-family="'Microsoft YaHei',sans-serif" font-size="15">顺时针连续视线方向</text>
+  <rect x="492" y="400" width="656" height="255" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <text x="528" y="446" fill="#24457f" font-family="'Microsoft YaHei',sans-serif" font-size="21" font-weight="700">朋友如何把鲸鲸添加到自己的宠物列表</text>
+  <path d="M592 524 H1041" stroke="#cbdcf1" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="'Microsoft YaHei',sans-serif" text-anchor="middle">
+    <circle cx="600" cy="524" r="31" fill="#426eaf"/><text x="600" y="532" fill="#fff" font-size="22" font-weight="700">1</text>
+    <circle cx="820" cy="524" r="31" fill="#426eaf"/><text x="820" y="532" fill="#fff" font-size="22" font-weight="700">2</text>
+    <circle cx="1040" cy="524" r="31" fill="#426eaf"/><text x="1040" y="532" fill="#fff" font-size="22" font-weight="700">3</text>
+    <text x="600" y="581" fill="#24457f" font-size="17" font-weight="700">下载并解压</text><text x="600" y="606" fill="#7185a6" font-size="14">打开动画预览</text>
+    <text x="820" y="581" fill="#24457f" font-size="17" font-weight="700">创建自定义宠物</text><text x="820" y="606" fill="#7185a6" font-size="14">上传 v2 精灵表</text>
+    <text x="1040" y="581" fill="#24457f" font-size="17" font-weight="700">命名并选择</text><text x="1040" y="606" fill="#7185a6" font-size="14">成为当前宠物</text>
+  </g>
+  <text x="64" y="690" fill="#8599b8" font-family="'Microsoft YaHei',sans-serif" font-size="13">聊天GPT Pets 创建流程适用；自定义宠物需由每位朋友在自己的账号中创建。</text>
+</svg>
